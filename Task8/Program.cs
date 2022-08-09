@@ -4,7 +4,7 @@
 // 8 -> 2, 4, 6, 8
 
 
-Console.Write("Введите первое целое число: ");
+Console.Write("Введите целое число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
 int i = 2;
