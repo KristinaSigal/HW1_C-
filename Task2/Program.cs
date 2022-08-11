@@ -12,13 +12,13 @@ int max = a;
 int min = b;
 
 
-if(a > b)
+if (a > b)
 {
-    max = a ; min = b;
+    max = a; min = b;
 }
-else 
+else
 {
-  max = b ; min = a;
+    max = b; min = a;
 }
 
 Console.Write("Максимальным является число ");
